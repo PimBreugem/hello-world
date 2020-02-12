@@ -1,2 +1,3 @@
 # hello-world
-test folder
+
+Dit is een voorgestelde edit van de readme.
